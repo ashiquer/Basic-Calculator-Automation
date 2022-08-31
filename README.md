@@ -38,10 +38,7 @@ Here the following tasks are done:
 ```
 - Click **Start Server**.
 
-#### Java IDE
 
-- Clone the repo.
-- Enter the uuid in the [Setup Class](https://github.com/NibrazKhan/Appium_Basic_Calculator_Automation/blob/main/src/test/java/Base/Setup.java)
 
 #### Run the Automation Script by the following command:
  ```
